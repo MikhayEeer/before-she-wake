@@ -1,0 +1,88 @@
+{
+  "scene": {
+    "prompt": "dark anime illustration, interior of an abandoned old school building at night in a girls academy, a single school girl lying motionless on the floor in the center of an old classroom, faint pale moonlight through dusty windows, candles and scattered medical supplies around, tense horror atmosphere, muted cold color palette, detailed, storyboard doujin board game art, no text",
+    "w": 1280,
+    "h": 832,
+    "steps": 8
+  },
+  "cards": {
+    "student-president": {
+      "prompt": "dark anime illustration, a confident student council president girl in a Japanese school uniform with a red armband, standing in an old school corridor at night, holding a clipboard, dim lighting, serious determined expression, horror mystery atmosphere, muted cold palette, doujin board game art, character portrait, no text",
+      "w": 1024,
+      "h": 1024,
+      "steps": 8
+    },
+    "health-committee": {
+      "prompt": "dark anime illustration, a gentle health committee girl in a Japanese school uniform with a green armband and first-aid kit, standing in an old school infirmary at night, soft glow, caring expression, horror mystery atmosphere, muted cold palette, doujin board game art, character portrait, no text",
+      "w": 1024,
+      "h": 1024,
+      "steps": 8
+    },
+    "library-committee": {
+      "prompt": "dark anime illustration, a studious library committee girl in a Japanese school uniform with a yellow armband and round glasses holding a book, standing in a dim old school library at night, bookshelves behind, quiet observant expression, horror mystery atmosphere, muted cold palette, doujin board game art, character portrait, no text",
+      "w": 1024,
+      "h": 1024,
+      "steps": 8
+    },
+    "discipline-committee": {
+      "prompt": "dark anime illustration, a strict discipline committee girl in a Japanese school uniform with a white armband holding a wooden ruler, standing in a dim old school corridor at night, stern expression, horror mystery atmosphere, muted cold palette, doujin board game art, character portrait, no text",
+      "w": 1024,
+      "h": 1024,
+      "steps": 8
+    },
+    "young-lady": {
+      "prompt": "dark anime illustration, an elegant wealthy young lady in a refined private school uniform with long hair, standing in a dim old school hall at night, calm composed expression, horror mystery atmosphere, muted cold palette, doujin board game art, character portrait, no text",
+      "w": 1024,
+      "h": 1024,
+      "steps": 8
+    },
+    "news-club": {
+      "prompt": "dark anime illustration, an energetic news club girl in a Japanese school uniform holding a camera and notepad, standing in a dim old school courtyard at night, curious expression, horror mystery atmosphere, muted cold palette, doujin board game art, character portrait, no text",
+      "w": 1024,
+      "h": 1024,
+      "steps": 8
+    },
+    "class-representative": {
+      "prompt": "dark anime illustration, a responsible class representative girl in a Japanese school uniform, standing at the front of a dim old classroom at night, clasping her hands, mild leader expression, horror mystery atmosphere, muted cold palette, doujin board game art, character portrait, no text",
+      "w": 1024,
+      "h": 1024,
+      "steps": 8
+    },
+    "honor-student": {
+      "prompt": "dark anime illustration, a brilliant honor student girl with a ribbon in a Japanese school uniform, standing in a dim old school laboratory at night, thoughtful intelligent expression, faint ominous silhouette behind, horror mystery atmosphere, muted cold palette, doujin board game art, character portrait, no text",
+      "w": 1024,
+      "h": 1024,
+      "steps": 8
+    },
+    "criminal": {
+      "prompt": "dark anime illustration, a suspicious girl in a Japanese school uniform partly hidden in shadow in an old school corridor at night, narrow eyes, hand in pocket, menacing subtle expression, horror mystery atmosphere, muted cold palette, doujin board game art, character portrait, no text",
+      "w": 1024,
+      "h": 1024,
+      "steps": 8
+    },
+    "accomplice": {
+      "prompt": "dark anime illustration, a sly accomplice girl in a Japanese school uniform leaning against a wall in a dim old school stairwell at night, quiet knowing smirk, horror mystery atmosphere, muted cold palette, doujin board game art, character portrait, no text",
+      "w": 1024,
+      "h": 1024,
+      "steps": 8
+    },
+    "alien": {
+      "prompt": "dark anime illustration, a mysterious girl in a Japanese school uniform with an unusual detached cold stare, standing in a dim old school courtyard at night under a faint starry sky, subtle strange otherworldly glow, horror mystery atmosphere, muted cold palette, doujin board game art, character portrait, no text",
+      "w": 1024,
+      "h": 1024,
+      "steps": 8
+    },
+    "infected": {
+      "prompt": "dark anime illustration, a distressed infected girl in a torn Japanese school uniform with dark veins on her skin, standing in a dim old school corridor at night, unsettling sickly expression, horror atmosphere, muted cold palette, doujin board game art, character portrait, no text",
+      "w": 1024,
+      "h": 1024,
+      "steps": 8
+    },
+    "go-home-club": {
+      "prompt": "dark anime illustration, a relaxed go-home club girl in a Japanese school uniform with a school bag, hands behind head, walking out of a dim old school at dusk, carefree unconcerned expression, horror mystery atmosphere, muted cold palette, doujin board game art, character portrait, no text",
+      "w": 1024,
+      "h": 1024,
+      "steps": 8
+    }
+  }
+}
