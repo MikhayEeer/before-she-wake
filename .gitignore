@@ -1,0 +1,10 @@
+node_modules
+dist
+server-dist
+.npm-cache
+*.local
+.env
+.env.*
+dev-server*.log
+dev-full*.log
+*.tsbuildinfo
